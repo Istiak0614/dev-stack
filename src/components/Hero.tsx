@@ -6,13 +6,11 @@ const Hero = () => {
       id="home"
       className="relative overflow-hidden bg-white"
     >
-      {/* Background Decoration */}
       <div className="pointer-events-none absolute left-[-120px] top-20 h-72 w-72 rounded-full bg-orange-100/40 blur-3xl" />
 
       <div className="pointer-events-none absolute right-[-100px] top-16 h-80 w-80 rounded-full bg-violet-100/50 blur-3xl" />
 
       <div className="relative mx-auto flex max-w-7xl flex-col items-center gap-10 px-5 py-16 sm:px-6 md:py-20 lg:min-h-[580px] lg:flex-row lg:justify-between lg:gap-14 lg:py-20">
-        {/* Left Content */}
         <div className="w-full text-center lg:w-[55%] lg:text-left">
           <div className="mb-5 inline-flex rounded-full border border-violet-100 bg-violet-50 px-4 py-2">
             <span className="text-xs font-semibold tracking-wide text-violet-700 sm:text-sm">
