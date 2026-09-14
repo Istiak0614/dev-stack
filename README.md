@@ -72,7 +72,7 @@ dev-stack/
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Istiak0614/dev-stack
 ```
 
 Go to the project folder:
