@@ -4,8 +4,8 @@ Dev Stack Builder is a responsive React application that helps developers explor
 
 ## 🌐 Live Links
 
-- **GitHub Repository:** Add your GitHub repository link here
-- **Live Site:** Add your deployed website link here
+- **GitHub Repository:** https://github.com/Istiak0614/dev-stack
+- **Live Site:** https://dev-stack-istiak.netlify.app
 
 ## 🛠️ Technologies Used
 
